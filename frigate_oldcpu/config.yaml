@@ -1,5 +1,5 @@
 name: Frigate (For old x86_64 CPU without AVX)
-version: dev-0223d6d
+version: dev-42559fa
 panel_icon: "mdi:cctv"
 panel_title: Frigate
 slug: frigate-oldcpu
