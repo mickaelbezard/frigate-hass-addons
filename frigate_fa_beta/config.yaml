@@ -1,5 +1,5 @@
 name: Frigate
-version: 24a1874
+version: 3c8ef0c
 breaking_versions:
   - 0.17.0
   - 0.16.0
