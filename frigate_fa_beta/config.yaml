@@ -1,5 +1,5 @@
 name: Frigate
-version: 0cf9d7d-amd64
+version: f0a6626-amd64
 breaking_versions:
   - 0.17.0
   - 0.16.0
